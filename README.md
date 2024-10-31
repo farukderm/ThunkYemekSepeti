@@ -19,3 +19,7 @@ Thunk Yemek Sepeti, **React** tabanlı bir yemek sipariş platformudur. Bu proje
 - **React-icons:** İkonlar ile kullanıcı arayüzünü zenginleştirmek için.
 - **React Router:** Restoranlar ve sepet gibi sayfalar arasında gezinmeyi sağlamak için.
 - **uuid:** Sepetteki her bir ürünün benzersiz bir kimliğe sahip olması için.
+  
+
+https://github.com/user-attachments/assets/fdf6eee6-498a-47ec-8028-a5752c9ddf4a
+
